@@ -1,0 +1,6 @@
+/bin/
+/results/
+.idea/
+.settings/
+common-*
+/out/
